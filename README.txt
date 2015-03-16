@@ -4,7 +4,7 @@
         WRAPPER FOR DAVID M. MOUNT & SUNIL ARYA ANN LIB
 
 
-   This wrapper for Matlab was written by Shai Bagon (shai.bagon@weizmann.ac.il).
+   This wrapper for Matlab was written by Shai Bagon (shaibagon@gmail.com).
    Department of Computer Science and Applied Mathmatics
    Wiezmann Institute of Science
    http://www.wisdom.weizmann.ac.il/~bagon
@@ -17,23 +17,23 @@
 	and balanced box-decomposition (bbd) trees. Here are some
 	references to the main algorithmic techniques used here:
 
-		kd-trees:
-			Friedman, Bentley, and Finkel, ``An algorithm for finding
-				best matches in logarithmic expected time,'' ACM
-				Transactions on Mathematical Software, 3(3):209-226, 1977.
+	kd-trees:
+		Friedman, Bentley, and Finkel, ``An algorithm for finding
+			best matches in logarithmic expected time,'' ACM
+			Transactions on Mathematical Software, 3(3):209-226, 1977.
 
-		Priority search in kd-trees:
-			Arya and Mount, ``Algorithms for fast vector quantization,''
-				Proc. of DCC '93: Data Compression Conference, eds. J. A.
-				Storer and M. Cohn, IEEE Press, 1993, 381-390.
+	Priority search in kd-trees:
+		Arya and Mount, ``Algorithms for fast vector quantization,''
+			Proc. of DCC '93: Data Compression Conference, eds. J. A.
+			Storer and M. Cohn, IEEE Press, 1993, 381-390.
 
-		Approximate nearest neighbor search and bbd-trees:
-			Arya, Mount, Netanyahu, Silverman, and Wu, ``An optimal
-				algorithm for approximate nearest neighbor searching,''
-				5th Ann. ACM-SIAM Symposium on Discrete Algorithms,
-				1994, 573-582.
+	Approximate nearest neighbor search and bbd-trees:
+		Arya, Mount, Netanyahu, Silverman, and Wu, ``An optimal
+			algorithm for approximate nearest neighbor searching,''
+			5th Ann. ACM-SIAM Symposium on Discrete Algorithms,
+			1994, 573-582.
 
-==============================================================================================
+========================================================================================
 
  INSTALLATION
 
@@ -58,7 +58,7 @@
  10. For help on the class type:
     >> doc ann
 
-==============================================================================================
+========================================================================================
 
  USING THE WRAPPER
 
@@ -119,7 +119,7 @@
       
       anno = close(anno);
 
-==============================================================================================
+========================================================================================
 
    This software is provided under the provisions of the
    Lesser GNU Public License (LGPL).
@@ -129,7 +129,7 @@
 
    The Software is provided "as is", without warranty of any kind.
 
-==============================================================================================
+========================================================================================
 
    CITATION
    
@@ -167,7 +167,7 @@
   timestamp = {2009.02.04}
 }
 
-==============================================================================================
+========================================================================================
 
 
 
